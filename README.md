@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<a href="https://union.place/@nottrobin" rel="me">@nottrobin on Mastodon</a>
+
 <!--
 **nottrobin/nottrobin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
